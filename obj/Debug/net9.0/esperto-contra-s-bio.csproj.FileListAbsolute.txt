@@ -1,0 +1,15 @@
+C:\Users\user\Documents\espertocontrasábio\esperto-contra-s-bio\bin\Debug\net9.0\esperto-contra-s-bio.exe
+C:\Users\user\Documents\espertocontrasábio\esperto-contra-s-bio\bin\Debug\net9.0\esperto-contra-s-bio.deps.json
+C:\Users\user\Documents\espertocontrasábio\esperto-contra-s-bio\bin\Debug\net9.0\esperto-contra-s-bio.runtimeconfig.json
+C:\Users\user\Documents\espertocontrasábio\esperto-contra-s-bio\bin\Debug\net9.0\esperto-contra-s-bio.dll
+C:\Users\user\Documents\espertocontrasábio\esperto-contra-s-bio\bin\Debug\net9.0\esperto-contra-s-bio.pdb
+C:\Users\user\Documents\espertocontrasábio\esperto-contra-s-bio\obj\Debug\net9.0\esperto-contra-s-bio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\espertocontrasábio\esperto-contra-s-bio\obj\Debug\net9.0\esperto-contra-s-bio.AssemblyInfoInputs.cache
+C:\Users\user\Documents\espertocontrasábio\esperto-contra-s-bio\obj\Debug\net9.0\esperto-contra-s-bio.AssemblyInfo.cs
+C:\Users\user\Documents\espertocontrasábio\esperto-contra-s-bio\obj\Debug\net9.0\esperto-contra-s-bio.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\espertocontrasábio\esperto-contra-s-bio\obj\Debug\net9.0\esperto-contra-s-bio.sourcelink.json
+C:\Users\user\Documents\espertocontrasábio\esperto-contra-s-bio\obj\Debug\net9.0\esperto-contra-s-bio.dll
+C:\Users\user\Documents\espertocontrasábio\esperto-contra-s-bio\obj\Debug\net9.0\refint\esperto-contra-s-bio.dll
+C:\Users\user\Documents\espertocontrasábio\esperto-contra-s-bio\obj\Debug\net9.0\esperto-contra-s-bio.pdb
+C:\Users\user\Documents\espertocontrasábio\esperto-contra-s-bio\obj\Debug\net9.0\esperto-contra-s-bio.genruntimeconfig.cache
+C:\Users\user\Documents\espertocontrasábio\esperto-contra-s-bio\obj\Debug\net9.0\ref\esperto-contra-s-bio.dll
